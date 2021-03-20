@@ -17,7 +17,7 @@ double myabs(double x) {
 /*the function my_sin */
 double my_sin(double x) {
   /*declations: */
-  double term, total_so_farת b, c;
+  double term, total_so_far, b, c;
   term = x; /* First term in the expansion.*/
   total_so_far = 0.00;
   b = 0.0, c = 1.0;
